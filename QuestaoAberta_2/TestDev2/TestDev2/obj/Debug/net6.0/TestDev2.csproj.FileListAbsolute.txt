@@ -1,0 +1,15 @@
+C:\Users\rafam\source\repos\TestDev2\TestDev2\bin\Debug\net6.0\TestDev2.exe
+C:\Users\rafam\source\repos\TestDev2\TestDev2\bin\Debug\net6.0\TestDev2.deps.json
+C:\Users\rafam\source\repos\TestDev2\TestDev2\bin\Debug\net6.0\TestDev2.runtimeconfig.json
+C:\Users\rafam\source\repos\TestDev2\TestDev2\bin\Debug\net6.0\TestDev2.dll
+C:\Users\rafam\source\repos\TestDev2\TestDev2\bin\Debug\net6.0\TestDev2.pdb
+C:\Users\rafam\source\repos\TestDev2\TestDev2\obj\Debug\net6.0\TestDev2.csproj.AssemblyReference.cache
+C:\Users\rafam\source\repos\TestDev2\TestDev2\obj\Debug\net6.0\TestDev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\source\repos\TestDev2\TestDev2\obj\Debug\net6.0\TestDev2.AssemblyInfoInputs.cache
+C:\Users\rafam\source\repos\TestDev2\TestDev2\obj\Debug\net6.0\TestDev2.AssemblyInfo.cs
+C:\Users\rafam\source\repos\TestDev2\TestDev2\obj\Debug\net6.0\TestDev2.csproj.CoreCompileInputs.cache
+C:\Users\rafam\source\repos\TestDev2\TestDev2\obj\Debug\net6.0\TestDev2.dll
+C:\Users\rafam\source\repos\TestDev2\TestDev2\obj\Debug\net6.0\refint\TestDev2.dll
+C:\Users\rafam\source\repos\TestDev2\TestDev2\obj\Debug\net6.0\TestDev2.pdb
+C:\Users\rafam\source\repos\TestDev2\TestDev2\obj\Debug\net6.0\TestDev2.genruntimeconfig.cache
+C:\Users\rafam\source\repos\TestDev2\TestDev2\obj\Debug\net6.0\ref\TestDev2.dll

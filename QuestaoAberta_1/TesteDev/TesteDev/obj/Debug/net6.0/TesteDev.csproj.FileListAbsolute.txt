@@ -1,0 +1,15 @@
+C:\Users\rafam\source\repos\TesteDev\TesteDev\bin\Debug\net6.0\TesteDev.exe
+C:\Users\rafam\source\repos\TesteDev\TesteDev\bin\Debug\net6.0\TesteDev.deps.json
+C:\Users\rafam\source\repos\TesteDev\TesteDev\bin\Debug\net6.0\TesteDev.runtimeconfig.json
+C:\Users\rafam\source\repos\TesteDev\TesteDev\bin\Debug\net6.0\TesteDev.dll
+C:\Users\rafam\source\repos\TesteDev\TesteDev\bin\Debug\net6.0\TesteDev.pdb
+C:\Users\rafam\source\repos\TesteDev\TesteDev\obj\Debug\net6.0\TesteDev.csproj.AssemblyReference.cache
+C:\Users\rafam\source\repos\TesteDev\TesteDev\obj\Debug\net6.0\TesteDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\source\repos\TesteDev\TesteDev\obj\Debug\net6.0\TesteDev.AssemblyInfoInputs.cache
+C:\Users\rafam\source\repos\TesteDev\TesteDev\obj\Debug\net6.0\TesteDev.AssemblyInfo.cs
+C:\Users\rafam\source\repos\TesteDev\TesteDev\obj\Debug\net6.0\TesteDev.csproj.CoreCompileInputs.cache
+C:\Users\rafam\source\repos\TesteDev\TesteDev\obj\Debug\net6.0\TesteDev.dll
+C:\Users\rafam\source\repos\TesteDev\TesteDev\obj\Debug\net6.0\refint\TesteDev.dll
+C:\Users\rafam\source\repos\TesteDev\TesteDev\obj\Debug\net6.0\TesteDev.pdb
+C:\Users\rafam\source\repos\TesteDev\TesteDev\obj\Debug\net6.0\TesteDev.genruntimeconfig.cache
+C:\Users\rafam\source\repos\TesteDev\TesteDev\obj\Debug\net6.0\ref\TesteDev.dll
